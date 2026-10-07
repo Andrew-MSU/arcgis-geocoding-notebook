@@ -18,7 +18,7 @@ This notebook is designed to teach students about basic geocoding in Python with
 1. Clone the repository and navigate to the `geocoding-simple` folder.
 2. Open the notebook in Jupyter:
    ```bash
-   jupyter notebook data-types-in-gis.ipynb
+   jupyter notebook geocoding_arcgis_python.ipynb
    ```
 3. Follow the exercises and examples provided in the notebook.
 
